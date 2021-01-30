@@ -6,3 +6,5 @@ Nesse projeto foram utilizadas algumas tecnologias como WEBRtc, PeerJs e WebSock
 Tudo foi desenvolvido com Vanila Javascript
 
 Tomabém foi utilizando o padrão Builder para lidar com a construção de objetos sobre demanda como um pipeline
+
+O projeto segue em desenvolvimento e vai servir como estudo para uma implementação de outra ferramente.
